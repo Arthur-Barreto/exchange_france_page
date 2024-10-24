@@ -1,12 +1,12 @@
-# Arthur no Intercambio
+# Raposas no Intercambio
 
-Welcome to **Arthur no Intercâmbio**! This personal website is dedicated to sharing my journey and raising funds for my exchange program. Visit us at [arthurnointercambio.com](http://arthurnointercambio.com).
+Welcome to **Raposas no Intercâmbio**! This personal website is dedicated to sharing the journey of some Insper Students and raising funds for our exchange program. Visit us at [raposasnointercambio.com](http://raposasnointercambio.com).
 
 ## About the Project
 
 This site is designed to:
 
-- Share my personal story and journey.
+- Share our personal story and journey.
 - Provide information on how to donate and support my exchange program.
 - Offer contact details for further communication.
 

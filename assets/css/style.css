@@ -2,9 +2,9 @@
 
 :root {
     /* red from france flag */
-    --primary-color: #ED2939;
+    --primary-color: #e50404;
     /* blue from france flag */
-    --dark-color: #002654;
+    --dark-color: #000000;
     /* white from france flag */
     --light-color: #ffffff;
 }
@@ -52,7 +52,7 @@ a:hover {
     left: 0;
     right: 0;
     z-index: 11;
-    background: #A3DFDE;
+    background: #fbe2e0;
     transition: 0.3s background;
 }
 
